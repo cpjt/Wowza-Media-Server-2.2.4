@@ -27,7 +27,6 @@ wget http://www.wowza.com/downloads/WowzaMediaServer-3.0.5/WowzaMediaServer-3.0.
 Chmod-x WowzaMediaServer-3.0.5.deb.bin
 ./WowzaMediaServer-3.0.5.deb.bin
 cd /usr/local/WowzaMediaServer-3.0.5/conf/ && nano admin.password
-#cd /usr/local/WowzaMediaServer-3.0.5/examples/ && ./installall.sh
 echo " "
 echo -e "${jeshile} ┌──────────────────────────────────────────────────────────┐ \e[0m"
 echo -e "${jeshile} │   Wowza Media Server 3.0.5                               │ \e[0m"
